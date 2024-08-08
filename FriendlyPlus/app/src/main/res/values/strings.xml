@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Friendly+</string>
+    <string name="notification_channel_name" />
+    <string name="channel_description" />
+</resources>
